@@ -36,3 +36,41 @@ c:\users\camh\documents\visual studio 2017\Projects\ServicioConsultaExcel\Servic
 c:\users\camh\documents\visual studio 2017\Projects\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.dll
 c:\users\camh\documents\visual studio 2017\Projects\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.xml
 c:\users\camh\documents\visual studio 2017\Projects\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.pdb
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\csc.exe
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\csc.exe.config
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\csc.rsp
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\csi.exe
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\csi.rsp
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.AppContext.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\vbc.exe
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\vbc.exe.config
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\vbc.rsp
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\VBCSCompiler.exe
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\ServicioConsultaExcel.dll.config
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\ServicioConsultaExcel.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\ServicioConsultaExcel.pdb
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\ServicioConsultaExcel.xml
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.vbprojResolveAssemblyReference.cache
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.Resources.resources
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.vbproj.GenerateResource.Cache
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.dll
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.xml
+C:\Users\CAMH\Desktop\ServicioConsultaExcel\ServicioConsultaExcel\obj\Debug\ServicioConsultaExcel.pdb
